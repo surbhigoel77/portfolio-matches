@@ -1,3 +1,9 @@
+### Notebook
+
+Notebook with results can be accessed [here](https://github.com/surbhigoel77/portfolio-matches/blob/main/notebooks/notebook.ipynb)
+
+It contains the overall analysis and results. The helper functions are in the scraper.py and relevance.py files.
+
 ### Scraping the Portfolio Page
 
 1. Obtaining the Portfolio Page HTML
